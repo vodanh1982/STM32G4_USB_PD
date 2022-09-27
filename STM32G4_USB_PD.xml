@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\superman\Dropbox\Projects\PCB\STM32G4_USB_PD\STM32G4_USB_PD.kicad_sch</source>
+    <date>9/26/2022 9:01:45 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>STM32G4_USB_PD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fda9325a-afce-4a4f-a3af-14a7f5999ce8</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>8p</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f44ae2d-6130-44c9-ad77-422e231398b1</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>8p</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e06ec71-8789-4e4e-8818-eb65adb41962</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a94edba-0621-4d01-aa2c-5f8ba86d47b2</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a29f62be-40e0-43f8-8f90-4b24bb26e0a6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>920302b6-b64a-4dd3-8cb6-0d522c0e4cd9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f29af94-75d0-46f0-b3d3-bc70a293d023</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f274c3b9-5459-4362-952a-941e601c9efa</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB4105-GF-A</value>
+      <footprint>USB4105-GF-A:USB4105-GF-A</footprint>
+      <libsource lib="USB4105-GF-A" part="USB4105-GF-A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d532e48-b891-4e3d-acc5-64a05ac29318</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER</value>
+      <footprint>J-LINK_6-PIN_NEEDLE_ADAPTER:J-LINK_6-PIN_NEEDLE_ADAPTER</footprint>
+      <fields>
+        <field name="MANUFACTURER">Segger</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="J-LINK_6-PIN_NEEDLE_ADAPTER" part="8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER" description=""/>
+      <property name="PARTREV" value="A"/>
+      <property name="MANUFACTURER" value="Segger"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d434ab9-246b-4da4-a6c8-9b8ac813c5e0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c06b8a7-88ed-41cc-9aed-babe0926b642</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08dae16d-1445-4892-a00c-f4c11ed576a3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002K</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds30896.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002K" description="0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1924460-6336-466b-b802-bc388bf5e538</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6d3cbf6-1c5c-4a6b-9356-0ac0de333d3c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3.6k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8d6cf7b-5083-4d3b-9662-55daea254862</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9025c42b-7c8e-4923-ba84-a368a855bced</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>12k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3cb3b1-0844-4330-b0b1-6e43570bc76c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a46306-37d7-4d9f-acf9-65ae8b22eba9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>160</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>723a4f63-a700-4f4d-83aa-59998f8d3858</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32G431C8T6</value>
+      <footprint>STM32G431C8T6:STM32G431C8T6</footprint>
+      <libsource lib="" part="STM32G431C8T6_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7f99538-1ccc-481f-b989-dd6de5f942ff 7cf22f2e-e464-4f74-9feb-b6ca1e667db1</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AP2205-W5-7</value>
+      <footprint>SamacSys_Parts:SOT95P282X145-5N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/49896ab3db029f5df263d3a8b036e85b.pdf</datasheet>
+      <fields>
+        <field name="Description">LDO Voltage Regulators LDO CMOS LowCurr</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">AP2205-W5-7</field>
+        <field name="Mouser Part Number">621-AP2205-W5-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2205-W5-7?qs=EBDBlbfErPxiadLvD5FZyQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="AP2205-W5-7" description="LDO Voltage Regulators LDO CMOS LowCurr"/>
+      <property name="Description" value="LDO Voltage Regulators LDO CMOS LowCurr"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="AP2205-W5-7"/>
+      <property name="Mouser Part Number" value="621-AP2205-W5-7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2205-W5-7?qs=EBDBlbfErPxiadLvD5FZyQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e01dae7a-7308-4328-b543-cf543e808a87</tstamps>
+    </comp>
+    <comp ref="XTAL1">
+      <value>RH100-48.000-8-F-1015-EXT-TR</value>
+      <footprint>RH100-48.000-8-F-1015-EXT-TR:RH100-48.000-8-F-1015-EXT-TR</footprint>
+      <libsource lib="RH100-48.000-8-F-1015-EXT-TR" part="RH100-48.000-8-F-1015-EXT-TR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STM32G4_USB_PD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d632d33-7d15-45cb-9d04-f3ff03b4d22c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="STM32G431C8T6_1">
+      <footprints>
+        <fp>LQFP48-7x7mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">STM32G431C8T6</field>
+        <field name="Footprint">LQFP48-7x7mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14-OSC32_IN" type="bidirectional"/>
+        <pin num="4" name="PC15-OSC32_OUT" type="bidirectional"/>
+        <pin num="5" name="PF0-OSC_IN" type="bidirectional"/>
+        <pin num="6" name="PF1-OSC_OUT" type="bidirectional"/>
+        <pin num="7" name="PG10-NRST" type="bidirectional"/>
+        <pin num="8" name="PA0" type="bidirectional"/>
+        <pin num="9" name="PA1" type="bidirectional"/>
+        <pin num="10" name="PA2" type="bidirectional"/>
+        <pin num="11" name="PA3" type="bidirectional"/>
+        <pin num="12" name="PA4" type="bidirectional"/>
+        <pin num="13" name="PA5" type="bidirectional"/>
+        <pin num="14" name="PA6" type="bidirectional"/>
+        <pin num="15" name="PA7" type="bidirectional"/>
+        <pin num="16" name="PB0" type="bidirectional"/>
+        <pin num="17" name="PB1" type="bidirectional"/>
+        <pin num="18" name="PB2" type="bidirectional"/>
+        <pin num="19" name="VSSA" type="power_in"/>
+        <pin num="20" name="VREF+" type="power_in"/>
+        <pin num="21" name="VDDA" type="power_in"/>
+        <pin num="22" name="PB10" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB11" type="bidirectional"/>
+        <pin num="26" name="PB12" type="bidirectional"/>
+        <pin num="27" name="PB13" type="bidirectional"/>
+        <pin num="28" name="PB14" type="bidirectional"/>
+        <pin num="29" name="PB15" type="bidirectional"/>
+        <pin num="30" name="PA8" type="bidirectional"/>
+        <pin num="31" name="PA9" type="bidirectional"/>
+        <pin num="32" name="PA10" type="bidirectional"/>
+        <pin num="33" name="PA11" type="bidirectional"/>
+        <pin num="34" name="PA12" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA13" type="bidirectional"/>
+        <pin num="38" name="PA14" type="bidirectional"/>
+        <pin num="39" name="PA15" type="bidirectional"/>
+        <pin num="40" name="PB3" type="bidirectional"/>
+        <pin num="41" name="PB4" type="bidirectional"/>
+        <pin num="42" name="PB5" type="bidirectional"/>
+        <pin num="43" name="PB6" type="bidirectional"/>
+        <pin num="44" name="PB7" type="bidirectional"/>
+        <pin num="45" name="PB8-BOOT0" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="J-LINK_6-PIN_NEEDLE_ADAPTER" part="8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER</field>
+        <field name="Footprint">SEGGER_8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER</field>
+        <field name="PARTREV">A</field>
+        <field name="MANUFACTURER">Segger</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RH100-48.000-8-F-1015-EXT-TR" part="RH100-48.000-8-F-1015-EXT-TR">
+      <footprints>
+        <fp>RH100_RAL</fp>
+        <fp>RH100_RAL-M</fp>
+        <fp>RH100_RAL-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">XTAL</field>
+        <field name="Value">RH100-48.000-8-F-1015-EXT-TR</field>
+        <field name="Footprint">RH100_RAL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="AP2205-W5-7">
+      <description>LDO Voltage Regulators LDO CMOS LowCurr</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2205-W5-7</field>
+        <field name="Footprint">SOT95P282X145-5N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="ADJ/NC" type="passive"/>
+        <pin num="5" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7002K">
+      <description>0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds30896.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002K</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds30896.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB4105-GF-A" part="USB4105-GF-A">
+      <footprints>
+        <fp>USB4105_GCT</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB4105-GF-A</field>
+        <field name="Footprint">USB4105_GCT</field>
+      </fields>
+      <pins>
+        <pin num="A1-B12" name="GND" type="power_in"/>
+        <pin num="A4-B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1-A12" name="GND" type="power_in"/>
+        <pin num="B4-A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="J-LINK_6-PIN_NEEDLE_ADAPTER">
+      <uri>C:/Users/superman/Dropbox/Projects/PCB/Libraries/KiCAD/J-LINK_6-PIN_NEEDLE_ADAPTER/J-LINK_6-PIN_NEEDLE_ADAPTER.lib</uri>
+    </library>
+    <library logical="RH100-48.000-8-F-1015-EXT-TR">
+      <uri>C:/Users/superman/Dropbox/Projects/PCB/Libraries/KiCAD/RH100-48.000-8-F-1015-EXT-TR/RH100-48.000-8-F-1015-EXT-TR.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/superman/Dropbox/Projects/PCB/Libraries/KiCAD/SamacSys/SamacSys_Parts.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="USB4105-GF-A">
+      <uri>C:/Users/superman/Dropbox/Projects/PCB/Libraries/KiCAD/USB4105-GF-A/USB4105-GF-A.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U1" pin="20" pinfunction="VREF+" pintype="power_in"/>
+      <node ref="U1" pin="21" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VOUT" pintype="passive"/>
+    </net>
+    <net code="2" name="/V_FB">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="ADJ/NC" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1-B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B1-A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="XTAL1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="XTAL1" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="4" name="MOTOR_PWM">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="OSC_IN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PF0-OSC_IN" pintype="bidirectional"/>
+      <node ref="XTAL1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="8" name="OSC_OUT">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="PF1-OSC_OUT" pintype="bidirectional"/>
+      <node ref="XTAL1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="9" name="SWCLK">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="SWDIO">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="SWO">
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="USART2_RX">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PA3" pintype="bidirectional"/>
+      <node ref="U1" pin="25" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="USART2_TX">
+      <node ref="U1" pin="10" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="USART3_TX">
+      <node ref="U1" pin="22" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="USB_CC1">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="U1" pin="31" pinfunction="PA9" pintype="bidirectional"/>
+      <node ref="U1" pin="43" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="USB_CC2">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="U1" pin="32" pinfunction="PA10" pintype="bidirectional"/>
+      <node ref="U1" pin="41" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="USB_D+">
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U1" pin="34" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="USB_D-">
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U1" pin="33" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="VSENSE">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="V_USB">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A4-B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B4-A9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="21" name="nRESET">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="PG10-NRST" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="PC13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="PC14-OSC32_IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="PC15-OSC32_OUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="PA0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="PA7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="PB12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="PB13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="PB14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="PB15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-Pad44)">
+      <node ref="U1" pin="44" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-Pad45)">
+      <node ref="U1" pin="45" pinfunction="PB8-BOOT0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad46)">
+      <node ref="U1" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
