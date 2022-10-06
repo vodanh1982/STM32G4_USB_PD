@@ -2446,7 +2446,7 @@
     (uuid 08dae16d-1445-4892-a00c-f4c11ed576a3)
     (property "Reference" "J4" (id 0) (at 267.97 123.3002 0))
     (property "Value" "Conn_01x02" (id 1) (at 267.97 125.8371 0))
-    (property "Footprint" "Anh_Nguyen:JST_PH_2mm_2" (id 2) (at 267.97 130.81 0)
+    (property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (id 2) (at 267.97 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.97 130.81 0)
@@ -2674,7 +2674,7 @@
     (property "Value" "Conn_01x04" (id 1) (at 270.002 86.7922 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Anh_Nguyen:JST_PH_2mm_4" (id 2) (at 267.97 83.82 0)
+    (property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" (id 2) (at 267.97 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.97 83.82 0)
@@ -3345,10 +3345,10 @@
       (reference "J2") (unit 1) (value "8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER") (footprint "J-LINK_6-PIN_NEEDLE_ADAPTER:J-LINK_6-PIN_NEEDLE_ADAPTER")
     )
     (path "/7c06b8a7-88ed-41cc-9aed-babe0926b642"
-      (reference "J3") (unit 1) (value "Conn_01x04") (footprint "Anh_Nguyen:JST_PH_2mm_4")
+      (reference "J3") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical")
     )
     (path "/08dae16d-1445-4892-a00c-f4c11ed576a3"
-      (reference "J4") (unit 1) (value "Conn_01x02") (footprint "Anh_Nguyen:JST_PH_2mm_2")
+      (reference "J4") (unit 1) (value "Conn_01x02") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
     )
     (path "/f1924460-6336-466b-b802-bc388bf5e538"
       (reference "Q1") (unit 1) (value "2N7002K") (footprint "Package_TO_SOT_SMD:SOT-23")

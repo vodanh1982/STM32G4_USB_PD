@@ -1,0 +1,14 @@
+(version 1)
+
+
+(rule U1J1
+	(condition "A.insideCourtyard('U1') || A.insideCourtyard('J1')")
+	(constraint clearance (min 0.18mm)))
+(rule J1_hole
+	(condition "A.insideCourtyard('J1') && (A.Pad_Number=='17' || A.Pad_Number=='18')")
+	(constraint clearance (min 0.17mm)))
+(rule Footprint0201
+	(condition "A.insideCourtyard('C2') || A.insideCourtyard('C3') || A.insideCourtyard('C6')")
+	(constraint clearance (min 0.18mm)))
+
+

@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 2032)
+    (start_pass_no 2556)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -31,40 +31,40 @@
     (clear 100.0 (type smd_to_turn_gap))
     (clear 50.0 (type smd_smd))
   )
-  (padstack "Via[0-1]_400:200_um"
+  (padstack "Via[0-1]_500:300_um"
     (shape
-      (circle F.Cu 400.0 0.0 0.0)
+      (circle F.Cu 500.0 0.0 0.0)
     )
     (shape
-      (circle B.Cu 400.0 0.0 0.0)
+      (circle B.Cu 500.0 0.0 0.0)
     )
     (attach off)
   )
   (via 
-    "Via[0-1]_400:200_um" "Via[0-1]_400:200_um" default
+    "Via[0-1]_500:300_um" "Via[0-1]_500:300_um" default
   )
   (via 
-    "Via[0-1]_400:200_um-kicad_default" "Via[0-1]_400:200_um" "kicad_default"
+    "Via[0-1]_500:300_um-kicad_default" "Via[0-1]_500:300_um" "kicad_default"
   )
   (via 
-    "Via[0-1]_400:200_um-V_USB" "Via[0-1]_400:200_um" "V_USB"
+    "Via[0-1]_500:300_um-V_USB" "Via[0-1]_500:300_um" "V_USB"
   )
   (via_rule
-    default "Via[0-1]_400:200_um"
+    default "Via[0-1]_500:300_um"
   )
   (via_rule
-    "kicad_default" "Via[0-1]_400:200_um-kicad_default"
+    "kicad_default" "Via[0-1]_500:300_um-kicad_default"
   )
   (via_rule
-    "V_USB" "Via[0-1]_400:200_um-V_USB"
+    "V_USB" "Via[0-1]_500:300_um-V_USB"
   )
   (class default
-    "OSC_IN" GND "OSC_OUT" +3.3V "Net-(J4-Pad1)" "unconnected-(J1-PadB8)" "USB_CC1" "USB_D-"
-    "USB_D+" "unconnected-(J1-PadA8)" "USB_CC2" "unconnected-(J3-Pad2)" "USART2_RX" "MOTOR_PWM" VSENSE "/V_FB"
-    "unconnected-(U1-Pad2)" "unconnected-(U1-Pad3)" "unconnected-(U1-Pad4)" nRESET "unconnected-(U1-Pad8)" "unconnected-(U1-Pad9)" "USART2_TX" "unconnected-(U1-Pad12)"
-    "unconnected-(U1-Pad13)" "unconnected-(U1-Pad15)" "unconnected-(U1-Pad17)" "unconnected-(U1-Pad18)" "USART3_TX" "unconnected-(U1-Pad26)" "unconnected-(U1-Pad27)" "unconnected-(U1-Pad28)"
-    "unconnected-(U1-Pad29)" "unconnected-(U1-Pad30)" SWDIO SWCLK "unconnected-(U1-Pad39)" SWO "unconnected-(U1-Pad42)" "unconnected-(U1-Pad44)"
-    "unconnected-(U1-Pad45)" "unconnected-(U1-Pad46)" "Net-(D2-Pad1)"
+    "OSC_IN" GND "OSC_OUT" +3.3V "unconnected-(J1-PadB8)" "USB_CC1" "USB_D-" "USB_D+"
+    "unconnected-(J1-PadA8)" "USB_CC2" "unconnected-(J3-Pad2)" "USART2_RX" "MOTOR_PWM" VSENSE "/V_FB" "unconnected-(U1-Pad2)"
+    "unconnected-(U1-Pad3)" "unconnected-(U1-Pad4)" nRESET "unconnected-(U1-Pad8)" "unconnected-(U1-Pad9)" "USART2_TX" "unconnected-(U1-Pad12)" "unconnected-(U1-Pad13)"
+    "unconnected-(U1-Pad15)" "unconnected-(U1-Pad17)" "unconnected-(U1-Pad18)" "USART3_TX" "unconnected-(U1-Pad26)" "unconnected-(U1-Pad27)" "unconnected-(U1-Pad28)" "unconnected-(U1-Pad29)"
+    "unconnected-(U1-Pad30)" SWDIO SWCLK "unconnected-(U1-Pad39)" SWO "unconnected-(U1-Pad42)" "unconnected-(U1-Pad44)" "unconnected-(U1-Pad45)"
+    "unconnected-(U1-Pad46)" "Net-(D2-Pad1)" "Net-(D1-Pad2)"
     (clearance_class default)
     (via_rule default)
     (rule
@@ -89,7 +89,7 @@
     (clearance_class "V_USB")
     (via_rule V_USB)
     (rule
-      (width 400.0)
+      (width 584.2)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
