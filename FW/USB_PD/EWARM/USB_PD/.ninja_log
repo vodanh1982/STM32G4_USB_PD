@@ -1,0 +1,265 @@
+# ninja log v5
+1824	2185	6873935400646838	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_gpio.o	96356bf5e68f8402
+47	295	6873935381839702	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_vdm_user.o	fd5b1c9c502fb6e2
+306	714	6873935385856257	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.o	d1304ef21657b873
+2	316	6873940246179666	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_user.o	fc1fe896df68624a
+39	391	6873935382766601	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/CMSIS/system_stm32g4xx.o	f9450c2e9c5899c7
+33	502	6873935383683522	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_hal_msp.o	ee9efda1b215baf3
+1	410	6873935382627056	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_core.o	7c2b5c7c318b8be8
+15	540	6873935384132029	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/App/usbpd.o	3a0241081b292d35
+845	1276	6873935391527333	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.o	7d1b58b2340720cc
+3	428	6873938135573249	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	96eec3b556956fba
+20	591	6873935384620409	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_it.o	3dc421d4a88cbf3f
+3	299	6873945025368827	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_user.o	d57403b7a05d3a5a
+1914	2329	6873935401733199	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_ucpd.o	9599c9e94942682d
+554	932	6873935388198455	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.o	b91da7a1a75842b3
+2503	2939	6873935408211545	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw.o	9ea5b2392ad13ad8
+404	1777	6873935396570468	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc.o	99862a4e788f3f63
+514	1003	6873935388896700	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_if.o	4f2626bd13290f31
+3	435	6879997846765631	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/Target/usbd_conf.o	ce1461965938955d
+2407	2867	6879997871417333	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_it.o	444752b24b9a1de2
+727	1056	6873935389414382	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.o	c0ce0e8949443c61
+789	1178	6873935390630325	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.o	b5a365c3f01eb1a5
+1722	2822	6873935407025521	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/cmsis_os2.o	c9e6dc04936d9e9e
+694	1241	6873935391248235	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.o	1e80112a1ba6d485
+2035	2397	6873935402819577	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_exti.o	a0336a050be48012
+1015	1396	6873935392813031	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.o	4f29dbf9559025b6
+2197	3030	6873935409178339	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/queue.o	bdcb973ffadb18de
+2342	2490	6873935403786884	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/list.o	8ea401555179d28d
+1070	1523	6873935394058863	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.o	68244f1aff126d7c
+1192	1557	6873935394228296	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.o	df072604a1ecb13f
+2992	3174	6873935410473985	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_trace.o	24fe5e1453e24451
+2322	2575	6873935404633518	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/heap_4.o	d7cd28dcbf7581e4
+1789	2309	6873935401773061	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_utils.o	6aebebee492ca8cb
+945	1588	6873935394497380	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.o	4ea0e46ae4a55f3a
+1292	1624	6873935395025613	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.o	d20460b0bc392522
+605	1709	6873935395912652	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc_ex.o	2daa3d1f14648353
+1253	1812	6873935396909322	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.o	5114569d37cc69b
+1602	1901	6873935397886063	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.o	4f78676160a01500
+1571	2021	6873935399052254	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_adc.o	20ba9ae74bb2ea27
+1636	2059	6873935399391025	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_dma.o	f2b7f3597fdb35b5
+2635	3068	6873935409557064	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/stream_buffer.o	83cd7151033b59dc
+2165	2289	6873935401583709	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/croutine.o	3b6532ccbe9279a7
+367	719	6879997849701173	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/CMSIS/system_stm32g4xx.o	2529c46d21f7b465
+3110	3529	6873935414151735	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy.o	2c1eb80657986e70
+1408	2151	6873935400337873	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.o	f7ed4c5218a65e57
+1536	2363	6873935402341175	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.o	73bbbed991127e05
+2375	2541	6873935404304642	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/port.o	2128bf71fe0974eb
+2302	2621	6873935405091973	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/event_groups.o	4eab3cbde8374ad1
+3549	3947	6879997882140015	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw.o	4df591623c2b6aba
+2074	2717	6873935405979005	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_tim.o	79efb54f09ea2670
+2835	2908	6873935408012217	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/portasm.o	ad1eb61bc8dd55ca
+2951	2987	6873935408839448	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/EWARM/startup_stm32g431xx.o	befd041be069629e
+2410	3099	6873935409596942	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_cad_hw_if.o	4e55fdbdfabd605c
+1241	1518	6879997857984843	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.o	e74e9b31f905906c
+2729	3117	6873935409756385	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/timers.o	cc6d395ca26dcfe5
+2587	3152	6873935410065398	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw_if_it.o	8c8fc0b61cef93b0
+1426	3184	6879997874447218	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.o	74df199e013e1651
+2913	3322	6873935412108563	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/app_freertos.o	3ac3d9db0792482c
+3082	3458	6873935413444071	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_pwr_hw_if.o	ca45d5a996c268c1
+23	386	6879997846456687	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_desc.o	e533dd40b0c976df
+310	604	6873945028428598	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	67d295edea60a438
+3041	3541	6873935414151735	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_timersserver.o	f0544313999e3455
+2554	3567	6873935414490607	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/tasks.o	fa7a71ecb93988ec
+3129	3635	6873935415218189	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy_hw_if.o	102c89f77fde3ea1
+640	659	6873945029076404	C:/Users/anh.nguyen/OneDrive - TTI/Documents/mygit/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	ff72ae712169990
+2882	3165	6879997874467142	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/event_groups.o	f9f62a2d6083db99
+19	354	6879997846337103	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_cdc_if.o	ddd894f982217c6
+14	155	6879997844347586	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_core.o	91a9d49856069748
+2838	3214	6879997874940789	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/timers.o	8fd49a6bd6609a13
+169	680	6879997849541692	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_user.o	fcc027c071262d6a
+10	404	6879997846685899	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/App/usbpd.o	333699f2e2518b2b
+40	452	6879997846775603	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.o	377c5cecbd2e534
+36	168	6879894546435451	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_vdm_user.o	d0a057f85f3b9858
+694	1024	6879997853020875	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.o	b1f9eb9d78e9ae4c
+416	788	6879997850668039	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.o	3f78a42eaa17193a
+35	468	6879997847129717	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_if.o	7beb7db64b53dab5
+399	857	6879997851286656	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_user.o	bdfaf6e9e0cbdcb9
+447	931	6879997852067310	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.o	d0809603a3a57c8c
+870	1179	6879997854406247	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.o	f07e75c468e16e0e
+837	1373	6879997856529688	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.o	2edc5d8e96d47170
+463	824	6879997850847459	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.o	c98e1b864e4e7cab
+803	1246	6879997855089035	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.o	f606b8b5ead4e640
+480	1414	6879997856878483	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc_ex.o	88cf61c0d3274661
+734	1147	6879997854256739	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.o	3445cfb69e4fcc66
+1259	1601	6879997858812072	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.o	f2a7f71ca0db666a
+1194	1550	6879997858293858	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.o	4bac07d3e1efc5e5
+2310	3086	6879997873649868	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_usb.o	972fd873767897d4
+27	1295	6879997855702402	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc.o	409df1d316a8ed9
+945	1230	6879997855079069	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd_ex.o	af4e2cdd7bf8259c
+1161	1835	6879997861131767	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.o	2c8deb6bae6c993
+1387	2188	6879997864667790	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.o	54fa26da671e37c
+1309	1868	6879997861194157	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.o	8d4e58671b432aa5
+2203	2322	6879997865865758	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/croutine.o	b53b63bc0b989669
+2254	2902	6879997871641395	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_tim.o	1d59bd5d0c165589
+1618	1991	6879997862651986	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_dma.o	b9cf84c0109f819b
+1532	1900	6879997861610124	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_exti.o	c57a4072c3d2dcd0
+1566	1921	6879997861630056	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_gpio.o	daf1e3267e307f4d
+1939	2296	6879997865736201	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_ucpd.o	f3fdc3b88f11123
+1850	2357	6879997866170126	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_adc.o	9cc023545d78a761
+3228	4148	6879997884160527	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/tasks.o	4997042e80b47860
+1038	2240	6879997865121333	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd.o	83f1d58d618ec9b8
+2008	2441	6879997867176752	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_utils.o	9d1c70281b6a0e54
+3058	3534	6879997878119868	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_cdc.o	c532c2ed2282bdfe
+2773	3266	6879997875450579	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/stream_buffer.o	cbf17f813c60fec6
+2916	3045	6879997873271141	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/list.o	7b2ad5cbd91473ec
+3129	3867	6879997881432382	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ctlreq.o	2997e9e5f737ebfd
+3179	3407	6879997876900002	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/heap_4.o	699a06e08e6bb27f
+2986	3115	6879997873978787	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/port.o	70105abc1435da6
+3301	3438	6879994646240045	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_trace.o	1b04c2889dd8f770
+1914	2974	6879997872483782	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/cmsis_os2.o	cc78fa43310411ff
+3198	3932	6879997882130093	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/queue.o	8abaf2dbae1a91b2
+3279	3572	6879997878418843	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ioreq.o	4524d0a7ae95fe21
+3099	3622	6879997878628209	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_core.o	c710314b80acd5a7
+3422	3801	6879997880794558	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_pwr_hw_if.o	8057c60de839a0ef
+3636	4124	6879997884040886	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_cad_hw_if.o	63a0e62935c1b9d0
+2102	2167	6879994633556270	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/portasm.o	c0f330d9bc6752d3
+2162	2214	6879994633927433	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/EWARM/startup_stm32g431xx.o	e47b6b8b967c3c8
+3602	4040	6879997883186560	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy_hw_if.o	6bb40db43596e0b7
+3586	4052	6879997883206448	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw_if_it.o	201549f37e330049
+3025	3460	6879894579255624	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_timersserver.o	ca1933f2eb36aac
+3121	3564	6879894580252283	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy.o	66fd524c6e5b4258
+2337	2642	6879997869178205	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usb_device.o	3816b598ddebb1ed
+2372	2759	6879997870340953	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_hal_msp.o	caa9dcde15bcfd3f
+2455	2823	6879997871018665	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/app_freertos.o	8e21f950446a0241
+2659	3591	6879997878478659	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+4159	4313	6879997885891929	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+4353	4368	6879997886599592	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
+1881	2393	6879997866718298	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.o	60c7b1c31febdece
+2	533	6879999832390079	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+543	876	6879999835832895	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+915	929	6879999836470767	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
+4	522	6880000052251938	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+534	689	6880000053897082	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+729	748	6880000054654546	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
+27	249	6880022369008057	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_core.o	91a9d49856069748
+19	416	6880022370771974	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_cdc_if.o	ddd894f982217c6
+9	460	6880022370864551	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_desc.o	e533dd40b0c976df
+3	498	6880022371569384	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/App/usbpd.o	333699f2e2518b2b
+41	520	6880022371350032	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.o	377c5cecbd2e534
+46	537	6880022371350032	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_user.o	bdfaf6e9e0cbdcb9
+14	559	6880022371539398	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/Target/usbd_conf.o	ce1461965938955d
+260	747	6880022374056053	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_user.o	fcc027c071262d6a
+429	780	6880022374365018	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/CMSIS/system_stm32g4xx.o	2529c46d21f7b465
+553	909	6880022375707356	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.o	b1f9eb9d78e9ae4c
+574	979	6880022376434895	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.o	c98e1b864e4e7cab
+472	1012	6880022376600494	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_if.o	7beb7db64b53dab5
+531	1102	6880022377617089	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.o	d0809603a3a57c8c
+761	1181	6880022378434351	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.o	3445cfb69e4fcc66
+795	1214	6880022378583848	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.o	3f78a42eaa17193a
+992	1340	6880022379999114	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd_ex.o	af4e2cdd7bf8259c
+34	1403	6880022380527342	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc.o	409df1d316a8ed9
+1114	1436	6880022380935975	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.o	f07e75c468e16e0e
+510	1560	6880022382181812	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc_ex.o	88cf61c0d3274661
+1229	1597	6880022382301404	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.o	f2a7f71ca0db666a
+1025	1614	6880022382480815	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.o	2edc5d8e96d47170
+1195	1646	6880022382929307	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.o	f606b8b5ead4e640
+1416	1930	6880022385881645	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.o	8d4e58671b432aa5
+1659	2007	6880022386665057	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_dma.o	b9cf84c0109f819b
+1627	2044	6880022386841552	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_adc.o	9cc023545d78a761
+1449	2110	6880022387708692	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.o	2c8deb6bae6c993
+921	2150	6880022388027556	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd.o	83f1d58d618ec9b8
+1354	2170	6880022388127220	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.o	54fa26da671e37c
+2057	2481	6880022391401376	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_exti.o	c57a4072c3d2dcd0
+2125	2521	6880022391580775	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_gpio.o	daf1e3267e307f4d
+1943	2540	6880022391828792	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.o	60c7b1c31febdece
+2164	2582	6880022392416845	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_utils.o	9d1c70281b6a0e54
+2497	2631	6880022392991020	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/croutine.o	b53b63bc0b989669
+1574	2839	6880022394941487	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.o	e74e9b31f905906c
+2596	2952	6880022396128053	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_ucpd.o	f3fdc3b88f11123
+2644	3077	6880022397413730	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/app_freertos.o	8e21f950446a0241
+2554	3124	6880022397852251	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_tim.o	1d59bd5d0c165589
+2183	3163	6880022398081408	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/cmsis_os2.o	cc78fa43310411ff
+2535	3299	6880022399551505	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_usb.o	972fd873767897d4
+2852	3331	6880022399631239	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_it.o	444752b24b9a1de2
+3178	3349	6880022399950180	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/port.o	70105abc1435da6
+3089	3477	6880022401370899	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usb_device.o	3816b598ddebb1ed
+3140	3574	6880022402340222	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_hal_msp.o	caa9dcde15bcfd3f
+2022	3740	6880022403968902	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.o	74df199e013e1651
+2966	3893	6880022405498148	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+3492	3967	6880022406265579	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_core.o	c710314b80acd5a7
+3588	3998	6880022406405109	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/timers.o	8fd49a6bd6609a13
+3755	4037	6880022406988560	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/event_groups.o	f9f62a2d6083db99
+3363	4091	6880022407527680	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ctlreq.o	2997e9e5f737ebfd
+3908	4112	6880022407607408	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/list.o	7b2ad5cbd91473ec
+3314	4145	6880022407872060	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/queue.o	8abaf2dbae1a91b2
+3344	4291	6880022409523476	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/tasks.o	4997042e80b47860
+4050	4321	6880022409802608	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/heap_4.o	699a06e08e6bb27f
+1609	4340	6880022409543421	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.o	4bac07d3e1efc5e5
+4012	4413	6880022410780713	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/stream_buffer.o	cbf17f813c60fec6
+4105	4469	6880022411314472	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ioreq.o	4524d0a7ae95fe21
+3981	4491	6880022411404121	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_cdc.o	c532c2ed2282bdfe
+4126	4549	6880022412120473	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw.o	4df591623c2b6aba
+4157	4655	6880022413184977	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw_if_it.o	201549f37e330049
+4352	4724	6880022413878694	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_pwr_hw_if.o	8057c60de839a0ef
+4335	4763	6880022414267517	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy_hw_if.o	6bb40db43596e0b7
+4303	4800	6880022414633621	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_cad_hw_if.o	63a0e62935c1b9d0
+4813	5002	6880022416652277	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+5041	5061	6880022417350056	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
+2	592	6880581844749360	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+603	997	6880581848636370	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+1032	1051	6880581849453677	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
+30	250	6880606490359287	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_core.o	91a9d49856069748
+3	384	6880606491784572	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_cdc_if.o	ddd894f982217c6
+10	403	6880606491894191	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usbd_desc.o	e533dd40b0c976df
+25	435	6880606492292830	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/App/usbpd.o	333699f2e2518b2b
+35	469	6880606492611769	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_dpm_user.o	bdfaf6e9e0cbdcb9
+18	490	6880606492751304	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/Target/usbd_conf.o	ce1461965938955d
+41	516	6880606492781211	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_user.o	fcc027c071262d6a
+260	545	6880606493329379	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/CMSIS/system_stm32g4xx.o	2529c46d21f7b465
+415	788	6880606495900801	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USBPD/usbpd_pwr_if.o	7beb7db64b53dab5
+527	819	6880606496199807	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.o	b1f9eb9d78e9ae4c
+398	852	6880606496319407	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.o	377c5cecbd2e534
+482	878	6880606496638341	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.o	c98e1b864e4e7cab
+502	906	6880606496917410	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.o	3445cfb69e4fcc66
+557	1079	6880606498811100	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.o	d0809603a3a57c8c
+892	1137	6880606499419076	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.o	f07e75c468e16e0e
+835	1224	6880606500276223	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd_ex.o	af4e2cdd7bf8259c
+800	1243	6880606500266266	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.o	3f78a42eaa17193a
+864	1296	6880606501003798	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.o	f606b8b5ead4e640
+14	1315	6880606500794482	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc.o	409df1d316a8ed9
+448	1395	6880606501990491	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_adc_ex.o	88cf61c0d3274661
+917	1448	6880606502508766	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.o	2edc5d8e96d47170
+1326	1649	6880606504492700	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.o	f2a7f71ca0db666a
+1257	1758	6880606505588500	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.o	8d4e58671b432aa5
+1307	1940	6880606507422390	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.o	2c8deb6bae6c993
+1664	1985	6880606507781182	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_exti.o	c57a4072c3d2dcd0
+1238	2007	6880606507591812	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.o	54fa26da671e37c
+1773	2138	6880606509415739	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_gpio.o	daf1e3267e307f4d
+1093	2249	6880606510512087	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pcd.o	83f1d58d618ec9b8
+1999	2336	6880606511389163	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_dma.o	b9cf84c0109f819b
+2021	2457	6880606512595131	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_adc.o	9cc023545d78a761
+1153	2475	6880606512605097	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.o	e74e9b31f905906c
+1954	2501	6880606512714742	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.o	60c7b1c31febdece
+2152	2518	6880606512804426	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_ucpd.o	f3fdc3b88f11123
+2513	2600	6880606514100111	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/croutine.o	b53b63bc0b989669
+2349	2824	6880606516272890	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_utils.o	9d1c70281b6a0e54
+2530	2949	6880606517518752	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_hal_msp.o	caa9dcde15bcfd3f
+2263	3055	6880606518555266	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_usb.o	972fd873767897d4
+2488	3074	6880606518565214	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_ll_tim.o	1d59bd5d0c165589
+1461	3111	6880606518894191	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.o	74df199e013e1651
+2837	3287	6880606520917413	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/stm32g4xx_it.o	444752b24b9a1de2
+2962	3348	6880606521535361	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/app_freertos.o	8e21f950446a0241
+3068	3389	6880606521854255	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/USB_Device/App/usb_device.o	3816b598ddebb1ed
+2613	3464	6880606522631668	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Application/User/Core/main.o	bd9428024d7209c6
+2471	3505	6880606522970535	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/cmsis_os2.o	cc78fa43310411ff
+3367	3543	6880606523498764	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/port.o	70105abc1435da6
+3123	3586	6880606523877503	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_core.o	c710314b80acd5a7
+3521	3667	6880606524744617	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/list.o	7b2ad5cbd91473ec
+3408	3687	6880606524794448	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/heap_4.o	699a06e08e6bb27f
+3559	3854	6880606526598424	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/event_groups.o	f9f62a2d6083db99
+3086	3887	6880606526787795	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/queue.o	8abaf2dbae1a91b2
+3479	3921	6880606527256235	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/timers.o	8fd49a6bd6609a13
+1407	4000	6880606527944000	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.o	4bac07d3e1efc5e5
+3300	4111	6880606529129995	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ctlreq.o	2997e9e5f737ebfd
+3600	4142	6880606529229668	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_cdc.o	c532c2ed2282bdfe
+3702	4175	6880606529658237	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/stream_buffer.o	cbf17f813c60fec6
+3868	4234	6880606530375832	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USB_Device_Library/usbd_ioreq.o	4524d0a7ae95fe21
+4013	4386	6880606531920721	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_pwr_hw_if.o	8057c60de839a0ef
+3933	4410	6880606532090110	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw_if_it.o	201549f37e330049
+3902	4459	6880606532638323	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_cad_hw_if.o	63a0e62935c1b9d0
+4157	4517	6880606533226367	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_hw.o	4df591623c2b6aba
+4125	4594	6880606533983797	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/USBPD/usbpd_phy_hw_if.o	6bb40db43596e0b7
+3680	4607	6880606534003745	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Obj/Middlewares/FreeRTOS/tasks.o	4997042e80b47860
+4619	4812	6880606536156555	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.out	2aec670bdbde0e8b
+4853	4870	6880606536854266	C:/Users/anh.nguyen/Documents/git/Kicad/STM32G4_USB_PD/FW/USB_PD/EWARM/USB_PD/Exe/USB_PD.hex	cabe862dd0637f9d
